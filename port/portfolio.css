@@ -1,0 +1,53 @@
+.hovers:hover{
+    transition: all 0.5s ease;
+    color: rgb(235, 196, 21)!important;
+}
+#myphoto{
+    border: solid white 3px;
+    border-radius: 100%;
+}
+
+.undline{
+    height: 5px;
+    width: 70px;
+    margin: 0 auto;
+    
+}
+.high{
+    min-width: 100vh;
+}
+
+li{
+    list-style-type:none;
+}
+/* 
+#head{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    
+
+
+} */
+.para{
+    font-weight:bold ;
+}
+#sign{
+    font-family: 'Festive', cursive;
+}
+.hov:hover{
+    transition: all 0.5s ease;
+    color: rgb(243, 239, 219)!important;
+}
+/* .formin{
+    
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        z-index: -1;
+    
+    
+    
+} */
